@@ -46,10 +46,13 @@ The SQL analysis provides:
 - Genre and author performance analysis
 
 ## ▶️ How to Run this Project?
+
 1. Clone the repository  
 2. Open your SQL environment (PostgreSQL/MySQL)  
-3. Run the `bookstore_analysis.sql` file  
-4. Execute queries to explore insights  
+3. Download the SQL file:  
+   👉 [Download bookstore_analysis.sql](https://raw.githubusercontent.com/iamnikhilsoni/bookstore-database-sql-project/refs/heads/main/bookstore_analysis.sql)  
+4. Run the SQL script in your database  
+5. Execute queries to explore insights    
 
 ## ✅ Results & Conclusion
 This project demonstrates how SQL can be used to transform raw data into meaningful business insights. It highlights the importance of structured querying in understanding sales performance, customer behavior, and inventory status.
